@@ -53,7 +53,7 @@ app.post('/' , function (req, res) {
  const options = {
 
     method: 'POST',
-    auth: 'arif1:f000f27d32e0523555629adf1cd0d2d0-us14'
+    auth: 'arif1:XXXXXXX'
 
  };
 
